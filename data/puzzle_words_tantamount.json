@@ -1,0 +1,73 @@
+{
+  "date": "Tantamount prototype",
+  "center": {
+    "word": "tantamount",
+    "note": "equivalent in seriousness, value, meaning, or effect"
+  },
+  "targets": [
+    {
+      "word": "equivalent"
+    },
+    {
+      "word": "equal"
+    },
+    {
+      "word": "comparable"
+    },
+    {
+      "word": "synonymous"
+    }
+  ],
+  "guessWords": [
+    "same",
+    "similar",
+    "alike",
+    "matching",
+    "identical",
+    "parallel",
+    "corresponding",
+    "commensurate",
+    "proportional",
+    "interchangeable",
+    "analogous",
+    "near",
+    "close",
+    "like",
+    "equivalence",
+    "equality",
+    "comparison",
+    "meaning",
+    "effect",
+    "value",
+    "importance",
+    "significance",
+    "seriousness",
+    "amount",
+    "degree",
+    "measure",
+    "level",
+    "rank",
+    "match",
+    "counterpart",
+    "substitute",
+    "synonym",
+    "equate",
+    "compare",
+    "balance",
+    "even",
+    "fair",
+    "duplicate",
+    "mirror",
+    "opposite",
+    "different",
+    "unrelated",
+    "minor",
+    "lesser",
+    "chair",
+    "table",
+    "river",
+    "cloud",
+    "number",
+    "hammer"
+  ]
+}

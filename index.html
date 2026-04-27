@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script src="p5.js"></script>
+    <script src="p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bullseye!</title>
+    <script>
+      // Set this to your deployed backend URL for GitHub Pages deployments.
+      // Example: "https://bullseye-api.onrender.com"
+      window.BULLSEYE_API_BASE_URL = "";
+    </script>
+  </head>
+  <body>
+    <main>
+      <div id="start-menu" class="menu-overlay">
+        <section class="menu-panel" aria-labelledby="menu-title">
+          <h1 id="menu-title">Play Bullseye!</h1>
+          <p>Choose your level:</p>
+          <div class="mode-actions" aria-label="Choose game mode:">
+            <button id="easy-mode-button" type="button">Easy</button>
+            <button id="hard-mode-button" type="button">Hard</button>
+          </div>
+          <br><br>
+          <p>Easy: Hint words can help you.<br>Hard: You'll need to find the hint words too!</p>
+        </section>
+      </div>
+      <div id="win-menu" class="menu-overlay is-hidden">
+        <section class="menu-panel" aria-labelledby="win-title">
+          <h1 id="win-title">You won!</h1>
+          <p id="win-message">The Bullseye of the Day was "xyz".</p>
+          <div class="mode-actions" aria-label="Win options">
+            <button id="win-restart-button" type="button">Restart</button>
+            <button id="view-board-button" type="button">View board</button>
+          </div>
+        </section>
+      </div>
+      <div id="top-actions" aria-label="Game actions">
+        <button id="restart-button" type="button">Restart</button>
+        <button id="score-button" type="button" aria-live="polite">
+          Guesses: 0
+        </button>
+      </div>
+      <div id="controls">
+        <input
+          id="guess-input"
+          type="text"
+          placeholder="Guess the bullseye!"
+          aria-label="Guess the center word"
+        />
+        <button id="guess-button" type="button" aria-label="Submit guess">
+          Guess
+        </button>
+      </div>
+    </main>
+    <script src="sketch.js?v=debug-20260422-1"></script>
+  </body>
+</html>

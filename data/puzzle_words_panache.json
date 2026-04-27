@@ -1,0 +1,83 @@
+{
+  "date": "Prototype puzzle",
+  "center": {
+    "word": "panache",
+    "note": "flamboyant confidence or style"
+  },
+  "targets": [
+    {
+      "word": "flair"
+    },
+    {
+      "word": "elegance"
+    },
+    {
+      "word": "bravado"
+    },
+    {
+      "word": "charisma"
+    }
+  ],
+  "guessWords": [
+    "style",
+    "stylish",
+    "confidence",
+    "confident",
+    "swagger",
+    "grace",
+    "graceful",
+    "charm",
+    "charming",
+    "boldness",
+    "courage",
+    "polish",
+    "refined",
+    "dramatic",
+    "spectacle",
+    "flourish",
+    "poise",
+    "presence",
+    "magnetism",
+    "fancy",
+    "showmanship",
+    "attitude",
+    "glamour",
+    "sophistication",
+    "taste",
+    "verve",
+    "dash",
+    "spirit",
+    "daring",
+    "nerve",
+    "aplomb",
+    "class",
+    "suave",
+    "smoothness",
+    "flamboyance",
+    "theatricality",
+    "energy",
+    "beauty",
+    "fashion",
+    "decorum",
+    "dignity",
+    "radiance",
+    "allure",
+    "appeal",
+    "personality",
+    "wit",
+    "sparkle",
+    "originality",
+    "tasteful",
+    "flashy",
+    "loud",
+    "quiet",
+    "ordinary",
+    "timid",
+    "chair",
+    "table",
+    "river",
+    "cloud",
+    "number",
+    "hammer"
+  ]
+}

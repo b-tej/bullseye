@@ -1,0 +1,79 @@
+{
+  "date": "Default prototype",
+  "center": {
+    "word": "default",
+    "note": "the preselected option or failure to fulfill an obligation"
+  },
+  "targets": [
+    {
+      "word": "standard"
+    },
+    {
+      "word": "preset"
+    },
+    {
+      "word": "automatic"
+    },
+    {
+      "word": "fallback"
+    }
+  ],
+  "guessWords": [
+    "baseline",
+    "normal",
+    "typical",
+    "usual",
+    "ordinary",
+    "primary",
+    "initial",
+    "predefined",
+    "configured",
+    "setting",
+    "option",
+    "mode",
+    "template",
+    "assumption",
+    "implicit",
+    "bydefault",
+    "startup",
+    "system",
+    "auto",
+    "autopilot",
+    "backup",
+    "substitute",
+    "alternative",
+    "failover",
+    "recovery",
+    "contingency",
+    "omission",
+    "absence",
+    "miss",
+    "neglect",
+    "nonpayment",
+    "delinquent",
+    "forfeit",
+    "breach",
+    "loan",
+    "debt",
+    "finance",
+    "contract",
+    "violation",
+    "responsibility",
+    "choose",
+    "selection",
+    "random",
+    "manual",
+    "custom",
+    "specific",
+    "exception",
+    "override",
+    "different",
+    "unrelated",
+    "chair",
+    "table",
+    "river",
+    "cloud",
+    "number",
+    "hammer"
+  ]
+}
